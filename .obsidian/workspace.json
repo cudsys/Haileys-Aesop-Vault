@@ -65,14 +65,11 @@
             "id": "888d92a828a7431c",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Storylines/Main storyline.canvas",
-                "viewState": {
-                  "x": 2876.996446080978,
-                  "y": -404.15088358412186,
-                  "zoom": -0.5
-                }
+                "file": "Characters/You.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -151,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Storylines/Main storyline.canvas",
+                "file": "Characters/You.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -168,7 +165,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Storylines/Main storyline.canvas",
+                "file": "Characters/You.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -191,7 +188,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Storylines/Main storyline.canvas"
+                "file": "Characters/You.md"
               }
             }
           }
@@ -215,18 +212,18 @@
       "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
     }
   },
-  "active": "359534ec0a4664b5",
+  "active": "888d92a828a7431c",
   "lastOpenFiles": [
+    "Endings/Main story/Main True Ending - The aesop, at long last.md",
+    "Locations/Your bedroom.md",
     "Storylines/Main storyline.canvas",
     "README.md",
-    "Endings/Main story/Main True Ending - The aesop, at long last.md",
     "Hailey's Aesop.md",
     "Characters/You.md",
     "Characters/Elle.md",
     "Templates",
     "Haileys-Aesop-Vault/README.md",
     "Haileys-Aesop-Vault",
-    "Locations/Your bedroom.md",
     "Storylines",
     "Endings/Main story",
     "Endings",
