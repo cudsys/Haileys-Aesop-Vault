@@ -1,0 +1,27 @@
+{
+	"nodes":[
+		{"type":"group","id":"8ca9d569ff06603a","x":-200,"y":-100,"width":870,"height":439,"color":"4","label":"Autosexual discovery"},
+		{"type":"text","text":"# Wake up","id":"52891048316af4d7","x":-440,"y":-220,"width":180,"height":60,"color":"#ffffff"},
+		{"type":"text","text":"# Kiss body pillow","id":"a6ece54583a69411","x":-180,"y":-80,"width":260,"height":60,"color":"#ffffff"},
+		{"type":"text","text":"# Imagine the body pillow is you","id":"44bdba807c8817c4","x":153,"y":220,"width":296,"height":99,"color":"#ffffff"},
+		{"type":"text","text":"# Go to town","id":"a7f893675e9aad84","x":449,"y":100,"width":201,"height":60,"color":"#ffffff"},
+		{"type":"text","text":"# Make out with body pillow","id":"72911142dd941596","x":-170,"y":80,"width":240,"height":100,"color":"#ffffff"},
+		{"type":"text","text":"# Get out of bed","id":"fbefee5ccb503158","x":800,"y":-220,"width":250,"height":60,"color":"#ffffff"},
+		{"type":"file","file":"Locations/Your bedroom.md","id":"5f442cd9b32e8c69","x":1200,"y":-390,"width":400,"height":400,"color":"#ffffff"},
+		{"id":"760171c668357289","x":1760,"y":-220,"width":135,"height":60,"color":"#ffffff","type":"text","text":"# Phone"},
+		{"id":"29767bd04ac9c550","x":2060,"y":-222,"width":250,"height":60,"color":"#ffffff","type":"text","text":"# fgdf"}
+	],
+	"edges":[
+		{"id":"fc5e73e5d8aeafa5","fromNode":"52891048316af4d7","fromSide":"right","toNode":"fbefee5ccb503158","toSide":"left"},
+		{"id":"41b02c95f184b18b","fromNode":"52891048316af4d7","fromSide":"right","toNode":"a6ece54583a69411","toSide":"left"},
+		{"id":"44ca1d92fa2e3c71","fromNode":"a6ece54583a69411","fromSide":"right","toNode":"fbefee5ccb503158","toSide":"left"},
+		{"id":"5bf7bd7916521750","fromNode":"a6ece54583a69411","fromSide":"bottom","toNode":"72911142dd941596","toSide":"top"},
+		{"id":"4cc4b1beeaa77030","fromNode":"72911142dd941596","fromSide":"right","toNode":"a7f893675e9aad84","toSide":"left"},
+		{"id":"a8308297d1fbf216","fromNode":"72911142dd941596","fromSide":"right","toNode":"44bdba807c8817c4","toSide":"left"},
+		{"id":"01c073b9acac6959","fromNode":"44bdba807c8817c4","fromSide":"right","toNode":"a7f893675e9aad84","toSide":"bottom"},
+		{"id":"368a47b75a21a885","fromNode":"a7f893675e9aad84","fromSide":"right","toNode":"fbefee5ccb503158","toSide":"left"},
+		{"id":"451e83b73bdd2abb","fromNode":"fbefee5ccb503158","fromSide":"right","toNode":"5f442cd9b32e8c69","toSide":"left"},
+		{"id":"ab30ab949d960fba","fromNode":"5f442cd9b32e8c69","fromSide":"right","toNode":"760171c668357289","toSide":"left","fromEnd":"arrow"},
+		{"id":"2b21bd2e6cdce249","fromNode":"760171c668357289","fromSide":"right","toNode":"29767bd04ac9c550","toSide":"left"}
+	]
+}

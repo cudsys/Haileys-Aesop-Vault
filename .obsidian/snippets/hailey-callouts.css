@@ -1,0 +1,37 @@
+.callout[data-callout="trigger-warning"] {
+    --callout-color: 255, 128, 128;
+    --callout-icon: lucide-alert-triangle;
+}
+
+.callout[data-callout="content-warning"]{
+    --callout-color: 255, 238, 128; 
+    --callout-icon: lucide-alert-circle;
+}
+
+.callout[data-callout="fun-fact"]{
+    --callout-color: 179, 128, 255; 
+    --callout-icon: lucide-rocket;
+}
+
+.callout[data-callout="hailey"]{
+    --callout-color: 0, 255, 255; 
+    --callout-icon: lucide-glasses;
+}
+
+.callout[data-callout="disclaimer"]{
+    --callout-color: 184, 184, 184; 
+    --callout-icon: lucide-info;
+}
+
+.callout[data-callout="superspoiler"]{
+    --callout-color: 255, 0, 0; 
+    --callout-icon: lucide-alert-octagon;
+}
+
+.callout[data-callout="spoiler-free"]{
+    --callout-color: 102, 255, 112; 
+    --callout-icon: lucide-verified;
+}
+
+
+
