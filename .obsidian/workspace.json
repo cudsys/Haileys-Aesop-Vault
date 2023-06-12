@@ -65,11 +65,14 @@
             "id": "888d92a828a7431c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Endings/Main story/Main True Ending - The aesop, at long last.md",
-                "mode": "source",
-                "source": false
+                "file": "Storylines/Main storyline.canvas",
+                "viewState": {
+                  "x": 2876.996446080978,
+                  "y": -404.15088358412186,
+                  "zoom": -0.5
+                }
               }
             }
           },
@@ -148,7 +151,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Endings/Main story/Main True Ending - The aesop, at long last.md",
+                "file": "Storylines/Main storyline.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -165,7 +168,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Endings/Main story/Main True Ending - The aesop, at long last.md",
+                "file": "Storylines/Main storyline.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -188,7 +191,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Endings/Main story/Main True Ending - The aesop, at long last.md"
+                "file": "Storylines/Main storyline.canvas"
               }
             }
           }
@@ -212,15 +215,15 @@
       "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
     }
   },
-  "active": "888d92a828a7431c",
+  "active": "359534ec0a4664b5",
   "lastOpenFiles": [
+    "Storylines/Main storyline.canvas",
+    "README.md",
+    "Endings/Main story/Main True Ending - The aesop, at long last.md",
+    "Hailey's Aesop.md",
     "Characters/You.md",
     "Characters/Elle.md",
     "Templates",
-    "Endings/Main story/Main True Ending - The aesop, at long last.md",
-    "Storylines/Main storyline.canvas",
-    "Hailey's Aesop.md",
-    "README.md",
     "Haileys-Aesop-Vault/README.md",
     "Haileys-Aesop-Vault",
     "Locations/Your bedroom.md",

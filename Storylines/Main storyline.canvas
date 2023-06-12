@@ -2,26 +2,34 @@
 	"nodes":[
 		{"type":"group","id":"8ca9d569ff06603a","x":-200,"y":-100,"width":870,"height":439,"color":"4","label":"Autosexual discovery"},
 		{"type":"text","text":"# Wake up","id":"52891048316af4d7","x":-440,"y":-220,"width":180,"height":60,"color":"#ffffff"},
-		{"type":"text","text":"# Kiss body pillow","id":"a6ece54583a69411","x":-180,"y":-80,"width":260,"height":60,"color":"#ffffff"},
-		{"type":"text","text":"# Imagine the body pillow is you","id":"44bdba807c8817c4","x":153,"y":220,"width":296,"height":99,"color":"#ffffff"},
-		{"type":"text","text":"# Go to town","id":"a7f893675e9aad84","x":449,"y":100,"width":201,"height":60,"color":"#ffffff"},
-		{"type":"text","text":"# Make out with body pillow","id":"72911142dd941596","x":-170,"y":80,"width":240,"height":100,"color":"#ffffff"},
+		{"type":"text","text":"# Kiss body pillow","id":"a6ece54583a69411","x":-180,"y":-80,"width":260,"height":60,"color":"4"},
+		{"type":"text","text":"# Imagine the body pillow is you","id":"44bdba807c8817c4","x":153,"y":220,"width":296,"height":99,"color":"4"},
+		{"type":"text","text":"# Go to town","id":"a7f893675e9aad84","x":449,"y":100,"width":201,"height":60,"color":"4"},
+		{"type":"text","text":"# Make out with body pillow","id":"72911142dd941596","x":-170,"y":80,"width":240,"height":100,"color":"4"},
 		{"type":"text","text":"# Get out of bed","id":"fbefee5ccb503158","x":800,"y":-220,"width":250,"height":60,"color":"#ffffff"},
 		{"type":"file","file":"Locations/Your bedroom.md","id":"5f442cd9b32e8c69","x":1200,"y":-390,"width":400,"height":400,"color":"#ffffff"},
-		{"id":"760171c668357289","x":1760,"y":-220,"width":135,"height":60,"color":"#ffffff","type":"text","text":"# Phone"},
-		{"id":"29767bd04ac9c550","x":2060,"y":-222,"width":250,"height":60,"color":"#ffffff","type":"text","text":"# fgdf"}
+		{"type":"text","text":"# Twindr","id":"29767bd04ac9c550","x":1940,"y":-220,"width":140,"height":60,"color":"#ffffff"},
+		{"type":"text","text":"# Elle route begins","id":"31dcc5601c0fe42c","x":2920,"y":-360,"width":267,"height":65,"color":"#fe9fdb"},
+		{"type":"text","text":"# Elle route lockout","id":"853c04a49ed06f4a","x":2920,"y":-100,"width":280,"height":60},
+		{"type":"text","text":"# Phone","id":"760171c668357289","x":1720,"y":-220,"width":135,"height":60,"color":"#ffffff"},
+		{"type":"text","text":"# Elle cutscene","id":"9ef03da165c97b7b","x":2520,"y":-220,"width":220,"height":60}
 	],
 	"edges":[
 		{"id":"fc5e73e5d8aeafa5","fromNode":"52891048316af4d7","fromSide":"right","toNode":"fbefee5ccb503158","toSide":"left"},
 		{"id":"41b02c95f184b18b","fromNode":"52891048316af4d7","fromSide":"right","toNode":"a6ece54583a69411","toSide":"left"},
 		{"id":"44ca1d92fa2e3c71","fromNode":"a6ece54583a69411","fromSide":"right","toNode":"fbefee5ccb503158","toSide":"left"},
-		{"id":"5bf7bd7916521750","fromNode":"a6ece54583a69411","fromSide":"bottom","toNode":"72911142dd941596","toSide":"top"},
-		{"id":"4cc4b1beeaa77030","fromNode":"72911142dd941596","fromSide":"right","toNode":"a7f893675e9aad84","toSide":"left"},
-		{"id":"a8308297d1fbf216","fromNode":"72911142dd941596","fromSide":"right","toNode":"44bdba807c8817c4","toSide":"left"},
-		{"id":"01c073b9acac6959","fromNode":"44bdba807c8817c4","fromSide":"right","toNode":"a7f893675e9aad84","toSide":"bottom"},
+		{"id":"5bf7bd7916521750","fromNode":"a6ece54583a69411","fromSide":"bottom","toNode":"72911142dd941596","toSide":"top","color":"4"},
+		{"id":"4cc4b1beeaa77030","fromNode":"72911142dd941596","fromSide":"right","toNode":"a7f893675e9aad84","toSide":"left","color":"4"},
+		{"id":"a8308297d1fbf216","fromNode":"72911142dd941596","fromSide":"right","toNode":"44bdba807c8817c4","toSide":"left","color":"4"},
+		{"id":"01c073b9acac6959","fromNode":"44bdba807c8817c4","fromSide":"right","toNode":"a7f893675e9aad84","toSide":"bottom","color":"4"},
 		{"id":"368a47b75a21a885","fromNode":"a7f893675e9aad84","fromSide":"right","toNode":"fbefee5ccb503158","toSide":"left"},
 		{"id":"451e83b73bdd2abb","fromNode":"fbefee5ccb503158","fromSide":"right","toNode":"5f442cd9b32e8c69","toSide":"left"},
 		{"id":"ab30ab949d960fba","fromNode":"5f442cd9b32e8c69","fromSide":"right","toNode":"760171c668357289","toSide":"left","fromEnd":"arrow"},
-		{"id":"2b21bd2e6cdce249","fromNode":"760171c668357289","fromSide":"right","toNode":"29767bd04ac9c550","toSide":"left"}
+		{"id":"2b21bd2e6cdce249","fromNode":"760171c668357289","fromSide":"right","toNode":"29767bd04ac9c550","toSide":"left","fromEnd":"arrow"},
+		{"id":"d02beedd8e145710","fromNode":"29767bd04ac9c550","fromSide":"right","toNode":"9ef03da165c97b7b","toSide":"left","label":"Refreshes 10 times and gets a DM from Elle"},
+		{"id":"6f65474c295c0ce3","fromNode":"9ef03da165c97b7b","fromSide":"right","toNode":"31dcc5601c0fe42c","toSide":"left","label":"MC accepts the offer to come over"},
+		{"id":"14609ce60b9d5b02","fromNode":"9ef03da165c97b7b","fromSide":"right","toNode":"853c04a49ed06f4a","toSide":"left","label":"MC declines the offer to come over"},
+		{"id":"a2f139e1257b56b2","fromNode":"853c04a49ed06f4a","fromSide":"bottom","toNode":"29767bd04ac9c550","toSide":"bottom"},
+		{"id":"43c4e816fc42992b","fromNode":"29767bd04ac9c550","fromSide":"top","toNode":"9ef03da165c97b7b","toSide":"top","color":"#fe9fdb","label":"If gender identity is feminine, DM appears after 3 refreshes"}
 	]
 }
