@@ -67,7 +67,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Endings/Main story/Main True Ending - The aesop, at long last.md",
                 "mode": "source",
                 "source": false
               }
@@ -148,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Endings/Main story/Main True Ending - The aesop, at long last.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -165,7 +165,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Endings/Main story/Main True Ending - The aesop, at long last.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -188,7 +188,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Endings/Main story/Main True Ending - The aesop, at long last.md"
               }
             }
           }
@@ -214,14 +214,15 @@
   },
   "active": "888d92a828a7431c",
   "lastOpenFiles": [
-    "Hailey's Aesop.md",
-    "README.md",
-    "Storylines/Main storyline.canvas",
-    "Haileys-Aesop-Vault/README.md",
-    "Haileys-Aesop-Vault",
     "Characters/You.md",
     "Characters/Elle.md",
+    "Templates",
     "Endings/Main story/Main True Ending - The aesop, at long last.md",
+    "Storylines/Main storyline.canvas",
+    "Hailey's Aesop.md",
+    "README.md",
+    "Haileys-Aesop-Vault/README.md",
+    "Haileys-Aesop-Vault",
     "Locations/Your bedroom.md",
     "Storylines",
     "Endings/Main story",
