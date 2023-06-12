@@ -67,7 +67,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Hailey's Aesop.md",
+                "file": "Endings/Main story/Main True Ending - The aesop, at long last.md",
                 "mode": "source",
                 "source": false
               }
@@ -148,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Hailey's Aesop.md",
+                "file": "Endings/Main story/Main True Ending - The aesop, at long last.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -165,7 +165,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Hailey's Aesop.md",
+                "file": "Endings/Main story/Main True Ending - The aesop, at long last.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -188,7 +188,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Hailey's Aesop.md"
+                "file": "Endings/Main story/Main True Ending - The aesop, at long last.md"
               }
             }
           }
@@ -214,8 +214,8 @@
   },
   "active": "888d92a828a7431c",
   "lastOpenFiles": [
-    "README.md",
     "Hailey's Aesop.md",
+    "README.md",
     "Storylines/Main storyline.canvas",
     "Endings/Main story/Main True Ending - The aesop, at long last.md",
     "Characters/You.md",
