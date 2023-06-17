@@ -3,3 +3,8 @@
 
 > [!spoiler-free]
 > This page contains no spoilers for the game.
+
+# [[Roadmap]] | [[Main storyline.canvas|Story map]]
+
+![[README]]
+

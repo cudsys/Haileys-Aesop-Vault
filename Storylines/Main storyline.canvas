@@ -5,8 +5,13 @@
 		{"type":"text","text":"# Kiss body pillow","id":"4a78116f358f47c4","x":-380,"y":-340,"width":260,"height":60,"color":"4"},
 		{"type":"text","text":"# Bed","id":"9c4a6aac01afb5f6","x":480,"y":-340,"width":100,"height":60,"color":"4"},
 		{"type":"text","text":"# Kiss body pillow again","id":"b2d5998dc53ac805","x":720,"y":-340,"width":340,"height":60,"color":"4"},
-		{"id":"15153d805e071b5e","x":1200,"y":-360,"width":362,"height":100,"color":"4","type":"text","text":"# Imagine the body pillow is you"},
-		{"id":"1dbbb44c9f89a779","x":1720,"y":-510,"width":400,"height":400,"color":"4","type":"file","file":"Endings/Main story/The joke is that I love myself.md"}
+		{"type":"text","text":"# Imagine the body pillow is you","id":"15153d805e071b5e","x":1200,"y":-360,"width":362,"height":100,"color":"4"},
+		{"type":"file","file":"Endings/Main story/The joke is that I love myself.md","id":"1dbbb44c9f89a779","x":1720,"y":-510,"width":400,"height":400,"color":"4"},
+		{"type":"text","text":"# Phone","id":"3dfdaeda841bc294","x":464,"y":-540,"width":133,"height":60},
+		{"type":"text","text":"# Twindr","id":"09c7e89785f6aff5","x":720,"y":-540,"width":155,"height":60},
+		{"type":"text","text":"# Elle cutscene","id":"956b81bf46fb9784","x":1000,"y":-540,"width":220,"height":60},
+		{"id":"71d392e8939b3ca0","x":1420,"y":-1020,"width":400,"height":400,"color":"#ffb8e5","type":"file","file":"Endings/Main story/Elle route/Elle route.md"},
+		{"id":"42fb11dc041a9f34","x":2020,"y":-1020,"width":400,"height":400,"type":"file","file":"Locations/Bus stop.md"}
 	],
 	"edges":[
 		{"id":"6730c72225f7716f","fromNode":"57b28b9e3fe3ddf3","fromSide":"right","toNode":"51bc70e3a42ef9af","toSide":"left"},
@@ -15,6 +20,11 @@
 		{"id":"8f35efa3403c9591","fromNode":"51bc70e3a42ef9af","fromSide":"right","toNode":"9c4a6aac01afb5f6","toSide":"left","color":"4"},
 		{"id":"11a2baebe522f358","fromNode":"9c4a6aac01afb5f6","fromSide":"right","toNode":"b2d5998dc53ac805","toSide":"left","color":"4"},
 		{"id":"a71a62d2b7b1423f","fromNode":"b2d5998dc53ac805","fromSide":"right","toNode":"15153d805e071b5e","toSide":"left","color":"4"},
-		{"id":"d75e4f355132e7fa","fromNode":"15153d805e071b5e","fromSide":"right","toNode":"1dbbb44c9f89a779","toSide":"left","color":"4"}
+		{"id":"d75e4f355132e7fa","fromNode":"15153d805e071b5e","fromSide":"right","toNode":"1dbbb44c9f89a779","toSide":"left","color":"4"},
+		{"id":"f12b98ac3d6a46c9","fromNode":"51bc70e3a42ef9af","fromSide":"right","toNode":"3dfdaeda841bc294","toSide":"left"},
+		{"id":"dc2dea9104cade7e","fromNode":"3dfdaeda841bc294","fromSide":"right","toNode":"09c7e89785f6aff5","toSide":"left"},
+		{"id":"91054a8f54a612f3","fromNode":"09c7e89785f6aff5","fromSide":"right","toNode":"956b81bf46fb9784","toSide":"left"},
+		{"id":"a1ecb49ef668dee3","fromNode":"956b81bf46fb9784","fromSide":"right","toNode":"71d392e8939b3ca0","toSide":"left"},
+		{"id":"efff50a23cc551ea","fromNode":"71d392e8939b3ca0","fromSide":"right","toNode":"42fb11dc041a9f34","toSide":"left"}
 	]
 }

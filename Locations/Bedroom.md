@@ -14,6 +14,7 @@ MC's Bedroom holds significant importance in the game as it serves as the centra
 - **Wardrobe:** The wardrobe contains a selection of clothing options that players can choose from to express themselves. Players can experiment with different styles and fashion choices that align with their character's gender identity and personal preferences.
 - **Bed:** If the player decides to choose an optional option after **waking up**, they can lie back down and start making out with their body pillow. This gets increasing more intimate and then concludes with the [[The joke is that I love myself|autosexual ending]]. ^d84bc3
 - **Phone:** The phone is a valuable tool for communication and information. Players can use it to receive messages, browse [[Twindr]], and engage with other characters.
+- **Depart:** You're able to leave without organizing to meet anyone
 
 ## People
 The bedroom is primarily a private space for the main character, but it sets the stage for interactions with other characters throughout the game. It serves as the starting point for the player's relationships and personal growth.

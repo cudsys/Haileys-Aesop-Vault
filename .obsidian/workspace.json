@@ -10,32 +10,54 @@
           {
             "id": "7e252db08251ac15",
             "type": "leaf",
+            "pinned": true,
             "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Ideas to put in (somehow).canvas",
-                "viewState": {
-                  "x": -536.8333129882812,
-                  "y": -82.83331298828125,
-                  "zoom": 0
-                }
-              }
+              "type": "graph",
+              "state": {},
+              "pinned": true
             }
           },
           {
             "id": "e87592ad9b8079eb",
             "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Storylines/Main storyline.canvas",
+                "viewState": {
+                  "x": 1819.6798716711885,
+                  "y": -750.5815930011183,
+                  "zoom": -0.6658824961047238
+                }
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "094765ed29a71833",
+            "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Characters/Avery.md",
+                "file": "Endings/Main story/The joke is that I love myself.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "4433997335f4d7cf",
+            "type": "leaf",
+            "state": {
+              "type": "kanban",
+              "state": {
+                "file": "Roadmap.md"
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -101,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Characters/Avery.md",
+                "file": "Roadmap.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Characters/Avery.md",
+                "file": "Roadmap.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Characters/Avery.md"
+                "file": "Roadmap.md"
               }
             }
           }
@@ -163,44 +185,49 @@
       "command-palette:Open command palette": true
     }
   },
-  "active": "e87592ad9b8079eb",
+  "active": "4433997335f4d7cf",
   "lastOpenFiles": [
+    "Storylines/Main storyline.canvas",
+    "Endings/Main story/Elle route/Elle route.md",
+    "Endings/Main story/The joke is that I love myself.md",
     "Roadmap.md",
-    "something.md",
+    "The joke is that I love myself.md",
+    "# Elle route.md",
+    "Templates/Location.md",
+    "Endings/Main story/Elle route/Untitled.md",
+    "Endings/Main story/Elle route",
+    "Templates/Ending.md",
+    "Hailey's Aesop.md",
+    "Ideas to put in (somehow).canvas",
+    "Characters/Evan.md",
     "Characters/Avery.md",
-    "Characters/You.md",
     "Characters/Samantha.md",
-    "Characters/Max.md",
-    "Characters/Elle.md",
-    "Locations/Elle's house.md",
+    "README.md",
     "Locations/Elle's cute spot.md",
+    "Untitled.canvas",
+    "img/GENDER REVELATION.png",
+    "img/this is a thing now.png",
+    "img/rem cameo.png",
+    "img/gender void.png",
+    "img/yayayayay first ending.png",
+    "Locations/The Summit.md",
+    "Locations/Elle's house.md",
+    "Locations/Bedroom.md",
     "Locations/City Mall.md",
     "Locations/Bus stop.md",
-    "Locations/Bedroom.md",
-    "Templates/Location.md",
     "Templates/Character.md",
-    "Endings/Main story/The joke is that I love myself.md",
-    "Ideas to put in (somehow).canvas",
-    "img/Pasted image 20230617140622.png",
-    "Storylines/Main storyline.canvas",
-    "img/Pasted image 20230617135906.png",
+    "Characters/You.md",
+    "Characters/Max.md",
+    "Characters/Elle.md",
+    "something.md",
     "img",
-    "img/Ideas to put in (somehow).png",
-    "img/Pasted image 20230617140305.png",
-    "img/Main storyline.png",
     "Bedroom^.md",
-    "Endings/Main story/Main True Ending - The aesop, at long last.md",
-    "Untitled.canvas",
-    "Hailey's Aesop.md",
-    "README.md",
     "Templates",
-    "Haileys-Aesop-Vault/README.md",
     "Haileys-Aesop-Vault",
     "Storylines",
     "Endings/Main story",
     "Endings",
     "Locations",
-    "Characters",
-    "2023-06-12.md"
+    "Characters"
   ]
 }
