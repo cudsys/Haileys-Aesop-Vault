@@ -26,9 +26,9 @@
               "state": {
                 "file": "Storylines/Main storyline.canvas",
                 "viewState": {
-                  "x": 1819.6798716711885,
-                  "y": -750.5815930011183,
-                  "zoom": -0.6658824961047238
+                  "x": 3627.7664585676284,
+                  "y": 264.32873229048573,
+                  "zoom": -1.6658824961047238
                 }
               },
               "pinned": true
@@ -47,17 +47,19 @@
             }
           },
           {
-            "id": "4433997335f4d7cf",
+            "id": "f748d9415dca9e71",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "Roadmap.md"
+                "file": "Endings/Main story/Summit route/Summit route.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -123,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Roadmap.md",
+                "file": "Storylines/Main storyline.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Roadmap.md",
+                "file": "Storylines/Main storyline.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Roadmap.md"
+                "file": "Storylines/Main storyline.canvas"
               }
             }
           }
@@ -185,23 +187,30 @@
       "command-palette:Open command palette": true
     }
   },
-  "active": "4433997335f4d7cf",
+  "active": "e87592ad9b8079eb",
   "lastOpenFiles": [
-    "Storylines/Main storyline.canvas",
-    "Endings/Main story/Elle route/Elle route.md",
     "Endings/Main story/The joke is that I love myself.md",
+    "Endings/Main story/Summit route/Summit route.md",
+    "Storylines/Main storyline.canvas",
+    "Endings/Main story/Summit route",
+    "Characters/Avery.md",
+    "Hailey's Aesop.md",
+    "Ideas to put in (somehow).canvas",
+    "Characters/Samantha.md",
     "Roadmap.md",
+    "Locations/The Summit.md",
+    "Locations/Bedroom.md",
+    "Characters/Max.md",
+    "Characters/Evan.md",
+    "Characters/Elle.md",
+    "Characters/You.md",
+    "Endings/Main story/Elle route/Elle route.md",
     "The joke is that I love myself.md",
     "# Elle route.md",
     "Templates/Location.md",
     "Endings/Main story/Elle route/Untitled.md",
     "Endings/Main story/Elle route",
     "Templates/Ending.md",
-    "Hailey's Aesop.md",
-    "Ideas to put in (somehow).canvas",
-    "Characters/Evan.md",
-    "Characters/Avery.md",
-    "Characters/Samantha.md",
     "README.md",
     "Locations/Elle's cute spot.md",
     "Untitled.canvas",
@@ -210,18 +219,12 @@
     "img/rem cameo.png",
     "img/gender void.png",
     "img/yayayayay first ending.png",
-    "Locations/The Summit.md",
     "Locations/Elle's house.md",
-    "Locations/Bedroom.md",
     "Locations/City Mall.md",
     "Locations/Bus stop.md",
     "Templates/Character.md",
-    "Characters/You.md",
-    "Characters/Max.md",
-    "Characters/Elle.md",
     "something.md",
     "img",
-    "Bedroom^.md",
     "Templates",
     "Haileys-Aesop-Vault",
     "Storylines",

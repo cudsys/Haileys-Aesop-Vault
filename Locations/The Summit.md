@@ -1,4 +1,4 @@
-#location 
+#location #key-location 
 
 # Overview
 The Summit is a vibrant and popular hangout spot situated atop City Mall. Originally conceived as an art installation, it quickly gained attention and transformed into a dedicated gathering place for queer individuals. Its allure lies not only in its picturesque setting but also in the sense of community it fosters.
