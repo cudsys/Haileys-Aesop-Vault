@@ -2,7 +2,5 @@
   "obsidian-discordrpc",
   "dataview",
   "obsidian-charts",
-  "obsidian-tasks-plugin",
-  "obsidian-textgenerator-plugin",
-  "cmdr"
+  "obsidian-tasks-plugin"
 ]

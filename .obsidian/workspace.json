@@ -8,81 +8,34 @@
         "type": "tabs",
         "children": [
           {
-            "id": "a6a6ba7319206010",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Characters/You.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "06ed76639a54e728",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Characters/You.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8bd66f947f4a5116",
+            "id": "7e252db08251ac15",
             "type": "leaf",
             "state": {
               "type": "canvas",
               "state": {
-                "file": "Storylines/Main storyline.canvas",
+                "file": "Ideas to put in (somehow).canvas",
                 "viewState": {
-                  "x": 1312.1586387873726,
-                  "y": -171.30665507891388,
-                  "zoom": -0.5
-                }
-              }
-            }
-          },
-          {
-            "id": "037c74639729303b",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Storylines/Main storyline.canvas",
-                "viewState": {
-                  "x": 2049.9749602681836,
-                  "y": -184.40696649240846,
+                  "x": -536.8333129882812,
+                  "y": -82.83331298828125,
                   "zoom": 0
                 }
               }
             }
           },
           {
-            "id": "888d92a828a7431c",
+            "id": "e87592ad9b8079eb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Endings/Main story/Main True Ending - The aesop, at long last.md",
-                "mode": "source",
+                "file": "Endings/Main story/The joke is that I love myself.md",
+                "mode": "preview",
                 "source": false
               }
             }
-          },
-          {
-            "id": "7e252db08251ac15",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -148,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Endings/Main story/Main True Ending - The aesop, at long last.md",
+                "file": "Endings/Main story/The joke is that I love myself.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -165,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Endings/Main story/Main True Ending - The aesop, at long last.md",
+                "file": "Endings/Main story/The joke is that I love myself.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -188,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Endings/Main story/Main True Ending - The aesop, at long last.md"
+                "file": "Endings/Main story/The joke is that I love myself.md"
               }
             }
           }
@@ -207,20 +160,37 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": true,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "obsidian-textgenerator-plugin:Generate Text!": false,
-      "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
+      "command-palette:Open command palette": true
     }
   },
-  "active": "888d92a828a7431c",
+  "active": "e87592ad9b8079eb",
   "lastOpenFiles": [
+    "Characters/Avery.md",
+    "Characters/Max.md",
+    "Characters/Elle.md",
+    "Ideas to put in (somehow).canvas",
+    "img/Pasted image 20230617140622.png",
+    "Storylines/Main storyline.canvas",
+    "img/Pasted image 20230617135906.png",
+    "img",
+    "img/Ideas to put in (somehow).png",
+    "img/Pasted image 20230617140305.png",
+    "Characters/You.md",
+    "img/Main storyline.png",
+    "Endings/Main story/The joke is that I love myself.md",
+    "Locations/Bedroom.md",
+    "Bedroom^.md",
+    "Locations/Elle's house.md",
+    "Locations/Elle's cute spot.md",
+    "Endings/Main story/Main True Ending - The aesop, at long last.md",
+    "Untitled.canvas",
+    "Locations/City Mall.md",
+    "Locations/Bus stop.md",
+    "Characters/Samantha.md",
+    "Templates/Location.md",
+    "Templates/Character.md",
     "Hailey's Aesop.md",
     "README.md",
-    "Storylines/Main storyline.canvas",
-    "Endings/Main story/Main True Ending - The aesop, at long last.md",
-    "Characters/You.md",
-    "Locations/Your bedroom.md",
-    "Characters/Elle.md",
     "Templates",
     "Haileys-Aesop-Vault/README.md",
     "Haileys-Aesop-Vault",
