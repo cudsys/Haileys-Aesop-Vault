@@ -28,8 +28,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Endings/Main story/The joke is that I love myself.md",
-                "mode": "preview",
+                "file": "Characters/Avery.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Endings/Main story/The joke is that I love myself.md",
+                "file": "Characters/Avery.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Endings/Main story/The joke is that I love myself.md",
+                "file": "Characters/Avery.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Endings/Main story/The joke is that I love myself.md"
+                "file": "Characters/Avery.md"
               }
             }
           }
@@ -165,9 +165,21 @@
   },
   "active": "e87592ad9b8079eb",
   "lastOpenFiles": [
+    "Roadmap.md",
+    "something.md",
     "Characters/Avery.md",
+    "Characters/You.md",
+    "Characters/Samantha.md",
     "Characters/Max.md",
     "Characters/Elle.md",
+    "Locations/Elle's house.md",
+    "Locations/Elle's cute spot.md",
+    "Locations/City Mall.md",
+    "Locations/Bus stop.md",
+    "Locations/Bedroom.md",
+    "Templates/Location.md",
+    "Templates/Character.md",
+    "Endings/Main story/The joke is that I love myself.md",
     "Ideas to put in (somehow).canvas",
     "img/Pasted image 20230617140622.png",
     "Storylines/Main storyline.canvas",
@@ -175,20 +187,10 @@
     "img",
     "img/Ideas to put in (somehow).png",
     "img/Pasted image 20230617140305.png",
-    "Characters/You.md",
     "img/Main storyline.png",
-    "Endings/Main story/The joke is that I love myself.md",
-    "Locations/Bedroom.md",
     "Bedroom^.md",
-    "Locations/Elle's house.md",
-    "Locations/Elle's cute spot.md",
     "Endings/Main story/Main True Ending - The aesop, at long last.md",
     "Untitled.canvas",
-    "Locations/City Mall.md",
-    "Locations/Bus stop.md",
-    "Characters/Samantha.md",
-    "Templates/Location.md",
-    "Templates/Character.md",
     "Hailey's Aesop.md",
     "README.md",
     "Templates",
