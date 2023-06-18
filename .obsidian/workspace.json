@@ -108,14 +108,11 @@
             "id": "fc8c51b5e74f672e",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Storylines/Main storyline.canvas",
-                "viewState": {
-                  "x": 1872.128137321332,
-                  "y": -427.0066284049892,
-                  "zoom": -0.6492086351746726
-                }
+                "file": "README.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -198,6 +195,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -214,6 +212,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -235,7 +234,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "README.md"
+              }
             }
           }
         ],
@@ -256,12 +257,12 @@
       "command-palette:Open command palette": true
     }
   },
-  "active": "359534ec0a4664b5",
+  "active": "fc8c51b5e74f672e",
   "lastOpenFiles": [
+    "Hailey's Aesop.md",
+    "Storypad.md",
     "Story",
     "Storylines/Main storyline.canvas",
-    "Storypad.md",
-    "Hailey's Aesop.md",
     "Endings/Main story/Elle route/Your Love Story 2.md",
     "Endings/Main story/The joke is that I love myself.md",
     "Endings/Main story/Elle route/Procrastination strikes again.md",
@@ -300,7 +301,6 @@
     "Storylines",
     "Endings/Main story",
     "Endings",
-    "Locations",
-    "Characters"
+    "Locations"
   ]
 }
