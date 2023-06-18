@@ -62,9 +62,11 @@
             "id": "0f90dd38acc323af",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "Roadmap.md"
+                "file": "Hailey's Aesop.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -147,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Roadmap.md",
+                "file": "Hailey's Aesop.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,7 +166,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Roadmap.md",
+                "file": "Hailey's Aesop.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -187,7 +189,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Roadmap.md"
+                "file": "Hailey's Aesop.md"
               }
             }
           }
@@ -211,14 +213,14 @@
   },
   "active": "0f90dd38acc323af",
   "lastOpenFiles": [
-    "Endings/Main story/Summit route/But it's not true....md",
-    "Roadmap.md",
-    "README.md",
     "Scrapped features.md",
+    "Hailey's Aesop.md",
+    "Roadmap.md",
+    "Endings/Main story/Summit route/But it's not true....md",
+    "README.md",
     "Endings/Main story/Summit route/You can't be stingy with your dignity.md",
     "Twine Roadmap.md",
     "Endings/Main story/Hailey's Aesop.md",
-    "Hailey's Aesop.md",
     "Ideas to put in (somehow).canvas",
     "Untitled.canvas",
     "Storypad.md",
