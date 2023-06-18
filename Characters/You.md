@@ -38,18 +38,6 @@ The player character's interests vary between runs, but the only constant is tha
 # Story
 The player appears in every route and ending, so this section will be presented in a sort of reversed fashion whilst going into detail what the player can do to alter the story.
 
-## Reflect
-**Reflecting** allows the player to specify their gender in two parts. First, the player physically reflects by looking at their body in the mirror to acknowledges its features. It is at this point that the player can decide what **assigned sex** they wish to be canon for the current run. After which, they mentally reflect, allowing the player to decide on the player character's **gender identity**. This system allows you to be cisgender, transgender, nonbinary and intersex. While some endings can be achieved with all genders, other endings are gender-exclusive.
-
-### Possible reflection combinations
-
-|                          | **Male body parts** | **Female body parts** | **Both body parts**        |
-|--------------------------|---------------------|-----------------------|----------------------------|
-| **Masculine feelings**   | Cis Male            | Trans Male            | Masc-leaning Intersex      |
-| **Feminine feelings**    | Trans Female        | Cis Female            | Fem-leaning Intersex       |
-| **Androgynous feelings** | Nonbinary           | Nonbinary             | Nonbinary AND/OR Intersex  |
-| **No feelings**          | Agender OR Demiboy  | Agender OR Demigirl   | Agender AND/OR Intersex    |
-
 ## Wardrobe
 The player is able to choose from different **outfits** from their **wardrobe** before leaving their house. Each outfit has certain effects on the story, ranging from adding/removing/altering dialogue all the way to being required to obtain endings.
 - [ ] TODO: make page for outfits in the future

@@ -10,7 +10,8 @@ The bus stop features a compact shelter equipped with a bench for waiting passen
 The Bus Stop serves as an important point of interaction and transit within the game. It is a place where the main character can encounter different characters, engage in conversations, and embark on new adventures. Access to various routes and destinations becomes available from this location.
 
 ## Events
-- **Samantha the Frog:** There is a 75% chance that Samantha, a unique character known for wearing a small traffic cone on her head, will appear at the bus stop. Players can initiate conversations with Samantha and engage in lighthearted and insightful exchanges. Her whimsical presence adds a touch of charm and unpredictability to the location.
+- **Samantha the Frog:** There is a 75% chance that Samantha, a unique character known for wearing a small traffic cone on her head, will appear at the bus stop. Players can initiate conversations with Samantha and engage in light-hearted and insightful exchanges. Her whimsical presence adds a touch of charm and unpredictability to the location.
+- **Twindr:** If the player hasn't opened Twindr yet, their phone will vibrate and alert them to fill out their profile, as this is the furthest the player can go without specifying their identity.
 
 ## People
 - **Samantha:** A cheerful and quirky character, Samantha often frequents the bus stop, offering amusing and meaningful conversations. Players can engage with her to gain fresh perspectives and deepen their understanding of themselves and the world around them.

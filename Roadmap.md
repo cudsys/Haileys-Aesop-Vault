@@ -6,12 +6,13 @@ kanban-plugin: basic
 
 ## Todo (after 1.0)
 
-- [ ] # Hailey ending(s)
+- [ ] ## Hailey ending(s)
+- [ ] ## Wardrobe
 
 
 ## Todo
 
-- [ ] # Summit route<br>Finally, good storytelling lmao.<br>- [ ] Just like Avery fr (Pansexual)<br>- [ ] But it's not true... (Heterosexual)<br>- [ ] Turning the tides back (Abrosexual)<br>- [ ] Passed the vibe check (Demisexual)
+- [ ] # Summit route<br>Finally, good storytelling lmao.<br>- [ ] Just like Avery fr (Pansexual)<br>- [x] But it's not true... (Heterosexual)<br>- [ ] Turning the tides back (Abrosexual)<br>- [ ] Passed the vibe check (Demisexual)<br>- [x] You can't be stingy with your dignity (Still confused)
 - [ ] # True ending<br>Or just the "final ending" of 1.0 I guess.
 
 

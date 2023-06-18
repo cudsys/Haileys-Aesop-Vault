@@ -15,8 +15,9 @@ City Mall serves as a pivotal location in the game, acting as a meeting point fo
 3. **Encounter Other Characters:** While exploring City Mall, players may encounter other characters from the game, such as [[Avery]], [[Max]], and more. These interactions provide additional opportunities for engaging conversations and connections.
 
 ## People
-- **Elle:** Elle, one of the main characters, can be met at City Mall and will take the main character to her beloved "cute spot."
-- **Avery, Max, and Others:** City Mall offers a chance to encounter various characters from the game, providing additional interactions and potential story developments.
+- **[[Elle]]:** Elle, one of the main characters, can be met at City Mall and will take the main character to her beloved "cute spot."
+- **[[Avery]], [[Max]], and Others:** City Mall offers a chance to encounter various characters from the game, providing additional interactions and potential story developments.
+- **[[Evan]]:** Evan usually spends his time at City Mall.
 
 # Trivia
 - City Mall draws inspiration from real-life shopping precincts like Queen Street Mall in Brisbane, Australia, blending the atmosphere and charm of such locations into the game's unique world.
