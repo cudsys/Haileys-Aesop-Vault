@@ -62,57 +62,9 @@
             "id": "0f90dd38acc323af",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Endings/Main story/Summit route/But it's not true....md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "cbed160e7d69bf3a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Endings/Main story/Summit route/You can't be stingy with your dignity.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "25591a147ff3b68c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Endings/Main story/Hailey's Aesop.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "40757a8fc6815e30",
-            "type": "leaf",
-            "state": {
               "type": "kanban",
               "state": {
                 "file": "Roadmap.md"
-              }
-            }
-          },
-          {
-            "id": "fc8c51b5e74f672e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
               }
             }
           },
@@ -129,7 +81,7 @@
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -195,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Roadmap.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -212,7 +164,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Roadmap.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -235,7 +187,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Roadmap.md"
               }
             }
           }
@@ -257,9 +209,18 @@
       "command-palette:Open command palette": true
     }
   },
-  "active": "fc8c51b5e74f672e",
+  "active": "0f90dd38acc323af",
   "lastOpenFiles": [
+    "Endings/Main story/Summit route/But it's not true....md",
+    "Roadmap.md",
+    "README.md",
+    "Scrapped features.md",
+    "Endings/Main story/Summit route/You can't be stingy with your dignity.md",
+    "Twine Roadmap.md",
+    "Endings/Main story/Hailey's Aesop.md",
     "Hailey's Aesop.md",
+    "Ideas to put in (somehow).canvas",
+    "Untitled.canvas",
     "Storypad.md",
     "Story",
     "Storylines/Main storyline.canvas",
@@ -268,14 +229,11 @@
     "Endings/Main story/Elle route/Procrastination strikes again.md",
     "Endings/Main story/Elle route/Elle route.md",
     "Endings/Main story/Elle route/Dream come true.md",
-    "Endings/Main story/Hailey's Aesop.md",
     "Characters/Samantha.md",
     "Characters/You.md",
-    "Endings/Main story/Summit route/You can't be stingy with your dignity.md",
     "Endings/Main story/Summit route/Turning the tides back.md",
     "Endings/Main story/Summit route/Passed the vibe check.md",
     "Endings/Main story/Summit route/Just like Avery fr.md",
-    "Endings/Main story/Summit route/But it's not true....md",
     "Endings/Main story/Summit route/Summit route.md",
     "Characters/Lilac.md",
     "Locations/The Summit.md",
@@ -283,11 +241,6 @@
     "Locations/Elle's house.md",
     "Locations/City Mall.md",
     "Locations/Bedroom.md",
-    "Locations/Bus stop.md",
-    "Locations/Elle's cute spot.md",
-    "Scrapped features.md",
-    "Untitled.canvas",
-    "Ideas to put in (somehow).canvas",
     "img/yayayayay first ending.png",
     "img/this is a thing now.png",
     "img/rem cameo.png",
