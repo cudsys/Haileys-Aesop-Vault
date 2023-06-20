@@ -29,7 +29,7 @@ kanban-plugin: basic
 
 ## Adding
 
-- [ ] # Beginning of the game<br>- [ ] Opening<br>- [ ] Bedroom<br>- [ ] Phone/Twindr
+- [ ] # Beginning of the game<br>- [x] Opening<br>- [ ] Bedroom<br>- [ ] Phone/Twindr
 
 
 ## Added

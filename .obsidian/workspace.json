@@ -35,55 +35,22 @@
             }
           },
           {
-            "id": "094765ed29a71833",
+            "id": "29649012a5c60192",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Endings/Main story/The joke is that I love myself.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f748d9415dca9e71",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Endings/Main story/Summit route/Summit route.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0f90dd38acc323af",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Hailey's Aesop.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "04c4641fceee41d4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Endings/Main story/Hailey's Aesop.md",
-                "mode": "source",
-                "source": false
+                "file": "Storylines/Main storyline.canvas",
+                "viewState": {
+                  "x": 4039.485233631037,
+                  "y": -284.53771638719815,
+                  "zoom": -1.3333333333333333
+                }
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -112,7 +79,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#character",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -149,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Hailey's Aesop.md",
+                "file": "Storylines/Main storyline.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -166,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Hailey's Aesop.md",
+                "file": "Storylines/Main storyline.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -189,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Hailey's Aesop.md"
+                "file": "Storylines/Main storyline.canvas"
               }
             }
           }
@@ -211,38 +178,37 @@
       "command-palette:Open command palette": true
     }
   },
-  "active": "0f90dd38acc323af",
+  "active": "29649012a5c60192",
   "lastOpenFiles": [
-    "Scrapped features.md",
-    "Hailey's Aesop.md",
+    "Characters/You.md",
+    "Endings/Main story/Summit route/Just like Avery fr.md",
+    "Storylines/Main storyline.canvas",
+    "Endings/Main story/Hailey's Aesop.md",
+    "Locations/Bedroom.md",
+    "Endings/Main story/Elle route/Your Love Story 2.md",
+    "Endings/Main story/Elle route/Dream come true.md",
+    "Characters/Samantha.md",
+    "To add (after 1.0).md",
+    "Characters/Lilac.md",
     "Roadmap.md",
+    "Endings/Main story/The joke is that I love myself.md",
+    "Endings/Main story/Summit route/Summit route.md",
+    "Hailey's Aesop.md",
+    "Locations/City Mall.md",
+    "Locations/Elle's house.md",
+    "Locations/Bus stop.md",
+    "Locations/Elle's cute spot.md",
+    "Locations/The Summit.md",
+    "Scrapped features.md",
     "Endings/Main story/Summit route/But it's not true....md",
     "README.md",
     "Endings/Main story/Summit route/You can't be stingy with your dignity.md",
     "Twine Roadmap.md",
-    "Endings/Main story/Hailey's Aesop.md",
     "Ideas to put in (somehow).canvas",
     "Untitled.canvas",
     "Storypad.md",
     "Story",
-    "Storylines/Main storyline.canvas",
-    "Endings/Main story/Elle route/Your Love Story 2.md",
-    "Endings/Main story/The joke is that I love myself.md",
     "Endings/Main story/Elle route/Procrastination strikes again.md",
-    "Endings/Main story/Elle route/Elle route.md",
-    "Endings/Main story/Elle route/Dream come true.md",
-    "Characters/Samantha.md",
-    "Characters/You.md",
-    "Endings/Main story/Summit route/Turning the tides back.md",
-    "Endings/Main story/Summit route/Passed the vibe check.md",
-    "Endings/Main story/Summit route/Just like Avery fr.md",
-    "Endings/Main story/Summit route/Summit route.md",
-    "Characters/Lilac.md",
-    "Locations/The Summit.md",
-    "Endings/Main story/Elle route/You are loved.md",
-    "Locations/Elle's house.md",
-    "Locations/City Mall.md",
-    "Locations/Bedroom.md",
     "img/yayayayay first ending.png",
     "img/this is a thing now.png",
     "img/rem cameo.png",

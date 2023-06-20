@@ -1,7 +1,7 @@
 #location 
 
 # Overview
-City Mall is a bustling and vibrant shopping district that serves as a central hub for various characters in the game. Accessible from the bus stop and located in close proximity to Elle's house, City Mall offers a range of shopping opportunities and serves as an alternative meet-up location for the main character and Elle. Inspired by real-life shopping precincts like Queen Street Mall in Brisbane, Australia, City Mall provides a lively and engaging environment for players to explore.
+City Mall is a bustling and vibrant shopping district that serves as a central hub for various characters in the game. Accessible from the bus stop and located in close proximity to [[Elle's house]], City Mall offers a range of shopping opportunities and serves as an alternative meet-up location for the [[You|main character]] and [[Elle]]. Inspired by real-life shopping precincts like Queen Street Mall in Brisbane, Australia, City Mall provides a lively and engaging environment for players to explore.
 
 # Appearance
 City Mall boasts a modern and visually appealing aesthetic, with wide pedestrian walkways lined with a variety of shops, boutiques, and cafes. The vibrant atmosphere is enhanced by colourful storefronts, eye-catching signage, and lively street performers. The architecture blends contemporary design elements with a touch of local charm, creating an inviting and stylish environment for visitors.

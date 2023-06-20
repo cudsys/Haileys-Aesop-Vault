@@ -13,7 +13,7 @@ The nod to Celeste resonates deeply within the queer community, evoking a sense 
 The combination of the cityscape backdrop, vibrant decorations, and the homage to Celeste creates an enchanting ambiance that encourages self-expression, celebration, and a sense of belonging.
 
 # Story
-The Summit serves as a pivotal location in the game, as it is where [[You|MC]] meets Avery and their friends for the first time. This encounter sparks new friendships and opens up opportunities for the player to explore an alternative route. As a popular hangout spot among queer individuals, The Summit represents a safe space for self-expression, connection, and support.
+The Summit serves as a pivotal location in the game, as it is where [[You|MC]] meets Avery and their friends for  the first time. This encounter sparks new friendships and opens up opportunities for the player to explore an alternative route. As a popular hangout spot among queer individuals, The Summit represents a safe space for self-expression, connection, and support.
 
 ## Events
 Specific things that happen here and/or things you can interact with.

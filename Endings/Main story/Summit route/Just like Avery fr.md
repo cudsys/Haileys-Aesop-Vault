@@ -1,3 +1,6 @@
+---
+alias: "The late night ending"
+---
 #ending
 
 # Overview

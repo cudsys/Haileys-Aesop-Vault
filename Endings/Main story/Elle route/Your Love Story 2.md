@@ -1,3 +1,7 @@
+---
+alias: "Elle ending A"
+---
+
 #ending
 
 # Overview

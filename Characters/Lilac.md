@@ -1,15 +1,15 @@
 #character 
 
 # Overview
-**Name:** 
-**Gender:** 
-**Pronouns:** 
-**Nicknames/Aliases:** 
+**Name:** Lilac
+**Gender:** Demigirl
+**Pronouns:** she/her, they/them
+**Nicknames/Aliases:** Biscuit
 **Sexuality:** 
-**Role:** 
-**Quote:** 
+**Role:** Supporting character
+**Quote:** "At this point, dealing with Evan is more annoying than anything."
 
-Put a paragraph here that serves as an overview of the character.
+**Lilac**
 
 ## Twindr profile
 **Name:** 
