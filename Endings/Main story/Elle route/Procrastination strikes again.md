@@ -11,7 +11,7 @@
 
 
 # Walkthrough
-1. In your bedroom, open your **Phone** and open **Twindr**.
+1. In your bedroom, open your **Phone** and open **[[Twindr]]**.
 2. Fill in your profile however you want.
 3. Refresh the grid 10 times to receive the message from [[Elle]].
 4. Accept her offer to hang out.

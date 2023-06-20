@@ -45,7 +45,6 @@
 		{"type":"text","text":"# \"I know an app that might help\"","id":"ec69cfa3c874e54d","x":4817,"y":-171,"width":346,"height":92,"color":"5"},
 		{"type":"text","text":"# MC goes looking for it","id":"19384f61aebbb2d1","x":5791,"y":-166,"width":267,"height":82,"color":"5"},
 		{"type":"text","text":"# Lilac goes looking for it","id":"29cc61859c381b73","x":5791,"y":24,"width":267,"height":82,"color":"5"},
-		{"type":"text","text":"# \"uhhh...........pan\"","id":"133404e4e6bb4478","x":4833,"y":1048,"width":280,"height":56,"color":"5"},
 		{"type":"text","text":"# The time passes quickly","id":"24e66bb91ee6df7f","x":6637,"y":1035,"width":239,"height":83,"color":"5"},
 		{"type":"file","file":"Endings/Main story/Summit route/Just like Avery fr.md","id":"67cfa474ddf1c410","x":7023,"y":877,"width":400,"height":400,"color":"5"},
 		{"type":"text","text":"# MC goes with the group to get food","id":"0cab74129890d015","x":5325,"y":511,"width":290,"height":84,"color":"5"},
@@ -54,7 +53,8 @@
 		{"type":"text","text":"# Go find Max","id":"0a19a529cf1fe804","x":5579,"y":772,"width":220,"height":60,"color":"5"},
 		{"type":"file","file":"Endings/Main story/Summit route/Turning the tides back.md","id":"6ef36cf1eefcd3a4","x":5935,"y":602,"width":400,"height":400,"color":"5"},
 		{"type":"text","text":"# \"I'm sure there's a fluid sexuality.\"","id":"1490026cd6d18e36","x":4800,"y":753,"width":346,"height":98,"color":"5"},
-		{"type":"text","text":"# [[Max]] goes to the toilet","id":"e76a07de98959d13","x":5300,"y":759,"width":207,"height":87,"color":"5"}
+		{"type":"text","text":"# [[Max]] goes to the toilet","id":"e76a07de98959d13","x":5300,"y":759,"width":207,"height":87,"color":"5"},
+		{"type":"text","text":"# \"I need to go out more often\"","id":"133404e4e6bb4478","x":4817,"y":1037,"width":260,"height":80,"color":"5"}
 	],
 	"edges":[
 		{"id":"6730c72225f7716f","fromNode":"57b28b9e3fe3ddf3","fromSide":"right","toNode":"51bc70e3a42ef9af","toSide":"left"},

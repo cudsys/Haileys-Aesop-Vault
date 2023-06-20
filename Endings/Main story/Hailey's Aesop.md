@@ -1,3 +1,6 @@
+---
+alias: "The final ending"
+---
 #ending #true-ending
 
 # Overview
@@ -5,17 +8,16 @@
 **Type:** True ending
 **Final sexuality:** Queer
 
-**Hailey's Aesop
+**Hailey's Aesop** is the name of the game. Funny enough, it is also the name of the final ending.
 
 # Summary
 
 
 # Walkthrough
 1. Talk to **[[Samantha]]**.
-2. Open your **Phone** and open **Twindr**.
-3. When filling out your profile, set your **pronouns** to either **she/her** or **they/them** and add either **fem** or **andro** as one of your **desc words**.
-4. Refresh the grid 10 times to receive the message from [[Elle]].
-5. Accept her offer to hang out but tell her to meet at [[City Mall]] instead.
+2. Open your **Phone** and open **[[Twindr]]**. Use whatever pronouns and desc words you want.
+4. Refresh the grid 3 times to receive the message from [[Elle]].
+5. Accept her offer to hang out.
 6. **Depart**.
 7. Go to the [[bus stop]].
 8. Catch the bus to [[City Mall]].

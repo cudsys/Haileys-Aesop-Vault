@@ -8,6 +8,8 @@ kanban-plugin: basic
 
 - [ ] ## Hailey ending(s)
 - [ ] ## Wardrobe
+- [ ] # QoL features<br>- [ ] Auto-profile
+- [ ] # FUN value
 
 
 ## To-plan
@@ -25,6 +27,7 @@ kanban-plugin: basic
 - [ ] # True ending<br>Or just the "final ending" of 1.0 I guess.
 - [ ] # Summit route<br>Finally, good storytelling lmao.<br>- [ ] Just like Avery fr (Pansexual)<br>- [ ] But it's not true... (Heterosexual)<br>- [ ] Turning the tides back (Abrosexual)<br>- [ ] Passed the vibe check (Demisexual)<br>- [ ] You can't be stingy with your dignity (Still confused)
 - [ ] # Meta features<br>- [ ] Small voice mode<br>- [ ] Saving/loading
+- [ ] # Random dialogue
 
 
 ## Adding

@@ -14,10 +14,10 @@ alias: "Elle ending B"
 
 
 # Walkthrough
-1. In your [[bedroom]], open your **Phone** and open **Twindr**.
+1. In your [[bedroom]], open your **Phone** and open **[[Twindr]]**.
 2. When filling out your profile, set your **pronouns** to either **she/her** or **they/them** and add either **fem** or **andro** as one of your **desc words**.
 3. Refresh the grid 10 times to receive the message from [[Elle]].
-4. Accept her offer to hang out but tell her to meet at [[City Mall]] instead.
+4. Accept her offer to hang out.
 5. **Depart**.
 6. Go to the [[bus stop]].
 7. Catch the bus to [[City Mall]].

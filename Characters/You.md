@@ -47,6 +47,5 @@ In the [[Elle route]], MC meets [[Elle]] through [[Twindr]] and becomes good fri
 ## Summit route
 In the [[Summit route]], MC meets and quickly becomes an enemy of [[Evan]], but just as quickly becomes a friend of [[Avery]] and their group of friends, including [[Max]] and [[Lilac]]. In the route, MC needs to confront [[Evan]] in several situations, save [[Just like Avery fr|The late night ending]].
 
-
 # Trivia
 
