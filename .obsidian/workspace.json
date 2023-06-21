@@ -62,9 +62,11 @@
             "id": "31571e1b66894df1",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "Roadmap.md"
+                "file": "Characters/Avery.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -135,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Roadmap.md",
+                "file": "Characters/Avery.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +154,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Roadmap.md",
+                "file": "Characters/Avery.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,7 +177,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Roadmap.md"
+                "file": "Characters/Avery.md"
               }
             }
           }
@@ -199,11 +201,16 @@
   },
   "active": "31571e1b66894df1",
   "lastOpenFiles": [
-    "Endings/Main story/Hailey's Aesop.md",
+    "Characters/Max.md",
+    "temp/Exit bus.md",
+    "Characters/Samantha.md",
+    "Characters/You.md",
     "Storylines/Main storyline.canvas",
+    "Roadmap.md",
+    "temp",
+    "Endings/Main story/Hailey's Aesop.md",
     "Locations/Bedroom.md",
     "Characters/Elle.md",
-    "Roadmap.md",
     "To add (after 1.0).md",
     "img/Main storyline.png",
     "Scrapped features.md",
@@ -212,12 +219,9 @@
     "Locations/Elle's cute spot.md",
     "Locations/City Mall.md",
     "Locations/Bus stop.md",
-    "Characters/Samantha.md",
     "Endings/Main story/The joke is that I love myself.md",
-    "Characters/You.md",
     "Characters/Lilac.md",
     "Characters/Evan.md",
-    "Characters/Max.md",
     "Templates/Character.md",
     "Mechanics/Twindr.md",
     "Endings/Main story/Summit route/You can't be stingy with your dignity.md",
@@ -225,7 +229,6 @@
     "Endings/Main story/Summit route/Summit route.md",
     "Endings/Main story/Summit route/Passed the vibe check.md",
     "Endings/Main story/Summit route/Just like Avery fr.md",
-    "Endings/Main story/Summit route/But it's not true....md",
     "Mechanics",
     "Ideas to put in (somehow).canvas",
     "Untitled.canvas",
@@ -241,7 +244,6 @@
     "Templates",
     "Haileys-Aesop-Vault",
     "Storylines",
-    "Endings/Main story",
-    "Endings"
+    "Endings/Main story"
   ]
 }
