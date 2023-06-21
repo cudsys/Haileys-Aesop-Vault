@@ -8,7 +8,7 @@ alias: "Elle ending B"
 **Type:** Ending
 **Final sexuality:** Demisexual
 
-**Your Love Story 2**, also known as **The Elle ending B** is an ending found in the [[Elle route]] where [[You|MC]] and [[Elle]] fall in love with each other. Unlike [[Your Love Story 2]] however, this ending takes place at [[Elle's cute spot]] instead of [[Elle's house|her house]].
+**Dream come true**, also known as **The Elle ending B** is an ending found in the [[Elle route]] where [[You|MC]] and [[Elle]] fall in love with each other. Unlike [[Your Love Story 2]] however, this ending takes place at [[Elle's cute spot]] instead of [[Elle's house|her house]].
 
 # Summary
 
