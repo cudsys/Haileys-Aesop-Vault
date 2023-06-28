@@ -1,6 +1,6 @@
 {
 	"nodes":[
-		{"type":"group","id":"e9c6542990c6820a","x":-360,"y":-100,"width":940,"height":760,"color":"2","label":"Cameos"},
+		{"type":"group","id":"e9c6542990c6820a","x":-360,"y":-100,"width":1500,"height":740,"color":"2","label":"Cameos"},
 		{"type":"group","id":"1041bae7e3438a24","x":-800,"y":-320,"width":920,"height":440,"color":"6","label":"Random events"},
 		{"type":"group","id":"bbc334c8336f168f","x":-340,"y":180,"width":400,"height":400,"color":"4","label":"Entities"},
 		{"type":"file","file":"img/rem cameo.png","id":"1cd6a35fb275b5e9","x":-340,"y":-46,"width":437,"height":69},
@@ -8,7 +8,9 @@
 		{"type":"file","file":"img/GENDER REVELATION.png","id":"890cd93c13c2b60f","x":-754,"y":-82,"width":273,"height":105},
 		{"type":"file","file":"img/gender void.png","id":"4cee05336095ae91","x":-759,"y":-280,"width":399,"height":52},
 		{"type":"file","file":"img/zander cameo.png","id":"d0c0eac7f2f9e60c","x":140,"y":-46,"width":400,"height":271},
-		{"id":"6faba0f69dd254d7","x":-320,"y":195,"width":360,"height":365,"color":"4","type":"text","text":"# The Edme Project\nan organization with the goal of setting up \"free queer accomodation\" for those who need it. \"whether if its for one day or one year, whether if it's out of refuge or just needing a bit of a 'queercation', everyone deserves another space just in case.\""}
+		{"type":"text","text":"# The Edme Project\nan organization with the goal of setting up \"free queer accomodation\" for those who need it. \"whether if its for one day or one year, whether if it's out of refuge or just needing a bit of a 'queercation', everyone deserves another space just in case.\"","id":"6faba0f69dd254d7","x":-320,"y":195,"width":360,"height":365,"color":"4"},
+		{"type":"file","file":"img/Pasted image 20230626131619.png","id":"7653d1d30a07bcfd","x":120,"y":260,"width":400,"height":325},
+		{"type":"file","file":"img/Pasted image 20230626131650.png","id":"9f5e06764429b6f2","x":580,"y":-70,"width":400,"height":117}
 	],
 	"edges":[
 		{"id":"9eab2d87f1c474e1","fromNode":"4cee05336095ae91","fromSide":"bottom","toNode":"6428685e8481357c","toSide":"top","toEnd":"none"}

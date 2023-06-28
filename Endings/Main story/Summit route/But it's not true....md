@@ -1,7 +1,7 @@
 #ending #bad-ending
 
 # Overview
-**Ending name:** But it's not true
+**Ending name:** But it's not true, The messed up ending
 **Type:** Bad ending
 **Final sexuality:** Heterosexual
 
