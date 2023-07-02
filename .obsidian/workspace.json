@@ -8,98 +8,56 @@
         "type": "tabs",
         "children": [
           {
-            "id": "7e252db08251ac15",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "graph",
-              "state": {},
-              "pinned": true
-            }
-          },
-          {
-            "id": "e87592ad9b8079eb",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Storylines/Main storyline.canvas",
-                "viewState": {
-                  "x": 5069.605667550148,
-                  "y": 322.11907814183513,
-                  "zoom": -1.0000000000000002
-                }
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "699766f63e4e3e05",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Characters/Elle.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "156d7c6f3f8dc41e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Endings/Main story/Summit route/But it's not true....md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e355ce0c7378aacf",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
             "id": "9e8c4387cf431a68",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "temp/Exit bus.md",
+                "file": "temp/The-Summit-Dialogue.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "4b3cc7de3a941258",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "bab17af035a1250a",
+            "id": "a0d857c2e192bca6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled.md",
+                "file": "Max-Path-Dialogue.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0673b8428e07c889",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lilac-Path-Dialogue.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "76797b4245bdc3dc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lilac-Path-Endings.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 3,
+        "stacked": true
       }
     ],
     "direction": "vertical"
@@ -149,7 +107,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "91a47b4c5d35a639",
@@ -165,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "temp/Exit bus.md",
+                "file": "Lilac-Path-Endings.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -182,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "temp/Exit bus.md",
+                "file": "Lilac-Path-Endings.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -205,7 +164,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "temp/Exit bus.md"
+                "file": "Lilac-Path-Endings.md"
               }
             }
           }
@@ -227,11 +186,20 @@
       "command-palette:Open command palette": true
     }
   },
-  "active": "9e8c4387cf431a68",
+  "active": "76797b4245bdc3dc",
   "lastOpenFiles": [
-    "3 days left roadmap.md",
+    "LineStarter.md",
+    "Lilac-Path-Endings.md",
+    "Lilac-Path-Dialogue.md",
+    "\"maybe try retracing your steps?\".md",
+    "Max-Path-Dialogue.md",
+    "temp/The-Summit-Dialogue.md",
+    "Locations/The Summit.md",
+    "Talking-Path-Dialogue.md",
     "Untitled.md",
     "Storylines/Main storyline.canvas",
+    "temp/Exit bus.md",
+    "3 days left roadmap.md",
     "Characters/Elle.md",
     "Endings/Main story/Summit route/But it's not true....md",
     "img/summit.png",
@@ -243,7 +211,6 @@
     "Templates/Location.md",
     "Templates/Ending.md",
     "Hailey's Aesop.md",
-    "temp/Exit bus.md",
     "Characters/Avery.md",
     "img/Post 1.0.png",
     "img/Pasted image 20230626131650.png",
@@ -256,15 +223,7 @@
     "Characters/You.md",
     "temp",
     "Endings/Main story/Hailey's Aesop.md",
-    "To add (after 1.0).md",
     "img/Main storyline.png",
-    "Scrapped features.md",
-    "Locations/The Summit.md",
-    "Locations/Elle's house.md",
-    "Locations/Elle's cute spot.md",
-    "Locations/City Mall.md",
-    "Locations/Bus stop.md",
-    "Characters/Lilac.md",
     "Mechanics",
     "Untitled.canvas",
     "Story",
